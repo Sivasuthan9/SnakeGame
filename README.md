@@ -52,4 +52,4 @@ This repository contains the implementation of a **Snake Game** developed for th
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Lainitha/Snake_Game.git
+   git clone https://github.com/Sivasuthan9/SnakeGame.git
